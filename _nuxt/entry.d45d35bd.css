@@ -1,0 +1,1 @@
+:where(:root){--font-unit-size:62.5%}html{font-size:var(--font-unit-size)}body,html{overscroll-behavior:none}body{-webkit-text-size-adjust:100%;margin:0;padding:0}
